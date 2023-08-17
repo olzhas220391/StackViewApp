@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  StackViewApp
 //
-//  Created by Назар on 17.08.2023.
+//  Created by Olzhas on 17.08.2023.
 //
 
 import UIKit
